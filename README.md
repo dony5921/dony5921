@@ -2,6 +2,8 @@
 ### Olá eu sou Adonizedeque 👋
 
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](donygoncalvez/)
+[![Blog](https://img.shields.io/badge/Linkedin-005FED?style=for-the-badge&logo=facebook-gaming&logoColor=white)](https://www.linkedin.com/in/adonizedeque-gon%C3%A7alves-dos-santos/)
+
 
 ![Dony GitHub stats](https://github-readme-stats.vercel.app/api?username=dony5921&show_icons=true&theme=dark)
 
