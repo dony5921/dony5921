@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Olá eu sou Adonizedeque 👋
 
-![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](donygoncalvez/)
 
 ![Dony GitHub stats](https://github-readme-stats.vercel.app/api?username=dony5921&show_icons=true&theme=dark)
 
